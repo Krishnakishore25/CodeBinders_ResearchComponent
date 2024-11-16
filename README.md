@@ -1,2 +1,3 @@
-# CodeBinders_ResearchComponent_1
-This is the  first Research component of Research Project
+# CodeBinders_ResearchComponent
+We have included our 4 research components in this repository
+
